@@ -1,0 +1,70 @@
+body {
+    background-color: #d5e7e7;
+    font-family: Bradley Hand, cursive;
+    text-indent: 5vh;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    color: rgb(3, 88, 94);
+    width: 15vh;
+}
+
+table {
+    text-indent: 6vh;
+}
+
+h1 {
+    color: #244446;
+    font-family:  cursive;
+}
+
+h2 {
+    color: rgb(53, 97, 97);
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-indent: 3vh;
+}
+
+h3 {
+    color: rgb(65, 112, 112);
+    font-family: Snell Roundhand, cursive ;
+
+}
+
+
+
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    text-indent: 10vh;
+
+}
+
+p { 
+    text-indent: 6vh;
+}
+
+#line {
+    padding-left: 10vh;
+}
+
+#hobby {
+    padding-left: 8vh;
+}
+
+input {
+    color: black;
+    font-family: Bradley Hand, cursive;
+    background-color: #d5e7e7;
+}
+
+textarea {
+    color: black;
+    font-family: Bradley Hand, cursive;
+    background-color: #d5e7e7;
+}
