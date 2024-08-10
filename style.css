@@ -7,7 +7,7 @@ body {
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-width: 5px;
+    border-width: 10%;
     color: rgb(3, 88, 94);
     width: 15vh;
 }
